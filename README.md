@@ -10,4 +10,5 @@ Lisää "fleetmanager/config/database.php" tiedostoon tarvittavat tiedot (server
 Aja "/fleetmanager/config/init_vehicles.php". Tämä luo relevantin taulun ja täyttää sen "/data/vehicles.csv" tiedoston tiedoilla. 
 
 https://app.getpostman.com/join-team?invite_code=6fab4263e5b489dacae084c2c34e6ab2
-Oheisesta postman workspacesta voit kuitenkin testailla valmiiksi hostattua ja alustettua versiota.
+Oheisessa postman teamissa on käyttäjä nimeltä "jepapeba" ja sen collectioneissa on "fleetmanager" collection jossa on vaaditut requestit.
+Siinä olevat urlit toimivat niin voit testailla valmiiksi hostattua ja alustettua versiota.
